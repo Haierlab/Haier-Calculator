@@ -1,0 +1,10 @@
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\bin\Debug\Haier Calculator.exe.config
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\bin\Debug\Haier Calculator.exe
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\bin\Debug\Haier Calculator.pdb
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier Calculator.csprojAssemblyReference.cache
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier_Calculator.Form1.resources
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier_Calculator.Properties.Resources.resources
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier Calculator.csproj.GenerateResource.cache
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier Calculator.exe
+C:\Users\Stylesheet.io\Desktop\App\Haier Calculator\Haier Calculator\obj\Debug\Haier Calculator.pdb
